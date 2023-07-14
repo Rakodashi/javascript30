@@ -5,5 +5,3 @@
 My starter Files for the JavaScript 30 Day Challenge.
 
 Course link [https://JavaScript30.com](https://JavaScript30.com)
-
-## Community #JavaScript30 Content
